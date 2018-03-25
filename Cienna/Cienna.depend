@@ -1,0 +1,206 @@
+# depslib dependency file v1.0
+1488622457 source:e:\study\computer\coding\c++\cienna\extra_functions.cpp
+	<string>
+	<string.h>
+	<stdio.h>
+	<iostream>
+	<algorithm>
+	<cctype>
+	<cwctype>
+	<sstream>
+
+1488620428 source:e:\study\computer\coding\c++\cienna\grammar_lib.cpp
+	<iostream>
+	<fstream>
+	<conio.h>
+	<string.h>
+	<stdio.h>
+	<vector>
+	"grammer_lib_class.h"
+	"cienna.h"
+
+1489318103 e:\study\computer\coding\c++\cienna\grammer_lib_class.h
+	"foundation.h"
+
+1488622010 e:\study\computer\coding\c++\cienna\cienna.h
+	<vector>
+	<stdio.h>
+	<string.h>
+	"grammer_lib_class.h"
+	"hdd_save.h"
+	"ram_save.h"
+
+1487681469 e:\study\computer\coding\c++\cienna\hdd_save.h
+	<vector>
+	<iostream>
+
+1488623471 e:\study\computer\coding\c++\cienna\ram_save.h
+	"hdd_save.h"
+
+1485626009 source:e:\study\computer\coding\c++\cienna\grammer_lib_class.cpp
+	"grammer_lib_class.h"
+
+1486653338 source:e:\study\computer\coding\c++\cienna\hdd_save.cpp
+	"hdd_save.h"
+
+1488628319 source:e:\study\computer\coding\c++\cienna\line_breaker.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<stdio.h>
+	<vector>
+	"cienna.h"
+
+1486400362 source:e:\study\computer\coding\c++\cienna\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<conio.h>
+	<stdio.h>
+	"cienna.h"
+
+1485084973 source:e:\study\computer\coding\c++\cienna\output.cpp
+
+1485619980 source:e:\study\computer\coding\c++\cienna\ram_save.cpp
+	"ram_save.h"
+
+1488624634 source:e:\study\computer\coding\c++\cienna\reader.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<stdio.h>
+	<string>
+	<vector>
+	"cienna.h"
+	"grammer_lib_class.h"
+
+1489309724 source:e:\study\computer\coding\c++\cienna\processor.cpp
+	<iostream>
+	<conio.h>
+	<string.h>
+	<stdio.h>
+	<sstream>
+	<vector>
+	<algorithm>
+	<ctype.h>
+	<string>
+	"grammer_lib_class.h"
+	"hdd_save.h"
+	"ram_save.h"
+	"cienna.h"
+	"extra_functions.h"
+
+1486647449 e:\study\computer\coding\c++\cienna\extra_functions.h
+
+1487485642 source:e:\study\computer\coding\c++\cienna\foundation.cpp
+	"foundation.h"
+
+1488620367 e:\study\computer\coding\c++\cienna\foundation.h
+
+1489857404 source:f:\study\computer\coding\c++\cienna\extra_functions.cpp
+	<string>
+	<string.h>
+	<stdio.h>
+	<iostream>
+	<algorithm>
+	<cctype>
+	<cwctype>
+	<sstream>
+
+1487489242 source:f:\study\computer\coding\c++\cienna\foundation.cpp
+	"foundation.h"
+
+1488623967 f:\study\computer\coding\c++\cienna\foundation.h
+
+1490122785 source:f:\study\computer\coding\c++\cienna\grammar_lib.cpp
+	<iostream>
+	<fstream>
+	<conio.h>
+	<string.h>
+	<stdio.h>
+	<vector>
+	"grammer_lib_class.h"
+	"cienna.h"
+
+1490118486 f:\study\computer\coding\c++\cienna\grammer_lib_class.h
+	"foundation.h"
+
+1490121889 f:\study\computer\coding\c++\cienna\cienna.h
+	<vector>
+	<stdio.h>
+	<string.h>
+	"grammer_lib_class.h"
+	"hdd_save.h"
+	"ram_save.h"
+
+1490191683 f:\study\computer\coding\c++\cienna\hdd_save.h
+	<vector>
+	<iostream>
+
+1490191173 f:\study\computer\coding\c++\cienna\ram_save.h
+	"hdd_save.h"
+
+1488631919 source:f:\study\computer\coding\c++\cienna\line_breaker.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<stdio.h>
+	<vector>
+	"cienna.h"
+
+1486403962 source:f:\study\computer\coding\c++\cienna\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<conio.h>
+	<stdio.h>
+	"cienna.h"
+
+1485088573 source:f:\study\computer\coding\c++\cienna\output.cpp
+
+1489814347 source:f:\study\computer\coding\c++\cienna\processor.cpp
+
+1489857404 f:\study\computer\coding\c++\cienna\extra_functions.h
+
+1490120312 source:f:\study\computer\coding\c++\cienna\reader.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<stdio.h>
+	<string>
+	<vector>
+	"cienna.h"
+	"grammer_lib_class.h"
+
+1489857404 source:f:\study\computer\coding\c++\cienna\search_algorithm.cpp
+	<iostream>
+	<conio.h>
+	<string.h>
+	<stdio.h>
+	<sstream>
+	<vector>
+	<algorithm>
+	<ctype.h>
+	<string>
+	"grammer_lib_class.h"
+	"hdd_save.h"
+	"ram_save.h"
+	"cienna.h"
+	"extra_functions.h"
+
+1490191173 source:f:\study\computer\coding\c++\cienna\master_algorithm.cpp
+	<iostream>
+	<conio.h>
+	<string.h>
+	<stdio.h>
+	<sstream>
+	<vector>
+	<algorithm>
+	<ctype.h>
+	<string>
+	"grammer_lib_class.h"
+	"hdd_save.h"
+	"ram_save.h"
+	"cienna.h"
+	"extra_functions.h"
+
